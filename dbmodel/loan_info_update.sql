@@ -1,0 +1,3 @@
+/** This script is for loan_info table decimal places **/
+
+alter table `loan_info` change `loan_principal` `loan_principal` decimal (10,5)  NULL , change `loan_interestamount` `loan_interestamount` decimal (10,5)  NULL , change `loan_interestperc` `loan_interestperc` decimal (10,5)  NULL , change `loan_monthly_amortization` `loan_monthly_amortization` decimal (10,5)  NULL , change `loan_payperperiod` `loan_payperperiod` decimal (10,5)  NULL , change `loan_ytd` `loan_ytd` decimal (10,5)  NULL , change `loan_balance` `loan_balance` decimal (10,5)  NULL , change `loan_total` `loan_total` decimal (10,5)  NULL 

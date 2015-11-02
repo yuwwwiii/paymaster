@@ -1,0 +1,34 @@
+insert into statutory_contribution set sc_id='6', sc_code='SSS 2014', sc_desc='Social Security Service', dec_id='1', sc_effectivedate='2014-01-01';
+insert into sc_records set max_salary='1249.99', min_salary='1000.00', max_age='99', min_age='0', sc_id='6', scr_er='73.70', scr_ee='36.30', scr_ec='10.00', scr_pcent='0', scr_pcentamnt='0.00';
+insert into sc_records set max_salary='1749.99', min_salary='1250.00', max_age='99', min_age='0', sc_id='6', scr_er='110.50', scr_ee='54.50', scr_ec='10.00', scr_pcent='0', scr_pcentamnt='0.00';
+insert into sc_records set max_salary='2249.99', min_salary='1750.00', max_age='99', min_age='0', sc_id='6', scr_er='147.30', scr_ee='72.70', scr_ec='10.00', scr_pcent='0', scr_pcentamnt='0.00';
+insert into sc_records set max_salary='2749.99', min_salary='2250.00', max_age='99', min_age='0', sc_id='6', scr_er='184.20', scr_ee='90.80', scr_ec='10.00', scr_pcent='0', scr_pcentamnt='0.00';
+insert into sc_records set max_salary='3249.99', min_salary='2750.00', max_age='99', min_age='0', sc_id='6', scr_er='221.00', scr_ee='109.00', scr_ec='10.00', scr_pcent='0', scr_pcentamnt='0.00';
+insert into sc_records set max_salary='3749.99', min_salary='3250.00', max_age='99', min_age='0', sc_id='6', scr_er='257.80', scr_ee='127.20', scr_ec='10.00', scr_pcent='0', scr_pcentamnt='0.00';
+insert into sc_records set max_salary='4249.99', min_salary='3750.00', max_age='99', min_age='0', sc_id='6', scr_er='294.70', scr_ee='145.30', scr_ec='10.00', scr_pcent='0', scr_pcentamnt='0.00';
+insert into sc_records set max_salary='4749.99', min_salary='4250.00', max_age='99', min_age='0', sc_id='6', scr_er='331.50', scr_ee='163.50', scr_ec='10.00', scr_pcent='0', scr_pcentamnt='0.00';
+insert into sc_records set max_salary='5249.99', min_salary='4750.00', max_age='99', min_age='0', sc_id='6', scr_er='368.30', scr_ee='181.70', scr_ec='10.00', scr_pcent='0', scr_pcentamnt='0.00';
+insert into sc_records set max_salary='5749.99', min_salary='5250.00', max_age='99', min_age='0', sc_id='6', scr_er='405.20', scr_ee='199.80', scr_ec='10.00', scr_pcent='0', scr_pcentamnt='0.00';
+insert into sc_records set max_salary='6249.99', min_salary='5750.00', max_age='99', min_age='0', sc_id='6', scr_er='442.00', scr_ee='218.00', scr_ec='10.00', scr_pcent='0', scr_pcentamnt='0.00';
+insert into sc_records set max_salary='6749.99', min_salary='6250.00', max_age='99', min_age='0', sc_id='6', scr_er='478.80', scr_ee='236.20', scr_ec='10.00', scr_pcent='0', scr_pcentamnt='0.00';
+insert into sc_records set max_salary='7249.99', min_salary='6750.00', max_age='99', min_age='0', sc_id='6', scr_er='515.70', scr_ee='254.30', scr_ec='10.00', scr_pcent='0', scr_pcentamnt='0.00';
+insert into sc_records set max_salary='7749.99', min_salary='7250.00', max_age='99', min_age='0', sc_id='6', scr_er='552.50', scr_ee='272.50', scr_ec='10.00', scr_pcent='0', scr_pcentamnt='0.00';
+insert into sc_records set max_salary='8249.99', min_salary='7750.00', max_age='99', min_age='0', sc_id='6', scr_er='589.30', scr_ee='290.70', scr_ec='10.00', scr_pcent='0', scr_pcentamnt='0.00';
+insert into sc_records set max_salary='8749.99', min_salary='8250.00', max_age='99', min_age='0', sc_id='6', scr_er='626.20', scr_ee='308.80', scr_ec='10.00', scr_pcent='0', scr_pcentamnt='0.00';
+insert into sc_records set max_salary='9249.99', min_salary='8750.00', max_age='99', min_age='0', sc_id='6', scr_er='663.00', scr_ee='327.00', scr_ec='10.00', scr_pcent='0', scr_pcentamnt='0.00';
+insert into sc_records set max_salary='9749.99', min_salary='9250.00', max_age='99', min_age='0', sc_id='6', scr_er='699.80', scr_ee='345.20', scr_ec='10.00', scr_pcent='0', scr_pcentamnt='0.00';
+insert into sc_records set max_salary='10249.99', min_salary='9750.00', max_age='99', min_age='0', sc_id='6', scr_er='736.70', scr_ee='363.30', scr_ec='10.00', scr_pcent='0', scr_pcentamnt='0.00';
+insert into sc_records set max_salary='10749.99', min_salary='10250.00', max_age='99', min_age='0', sc_id='6', scr_er='773.50', scr_ee='381.50', scr_ec='10.00', scr_pcent='0', scr_pcentamnt='0.00';
+insert into sc_records set max_salary='11249.99', min_salary='10750.00', max_age='99', min_age='0', sc_id='6', scr_er='810.30', scr_ee='399.70', scr_ec='10.00', scr_pcent='0', scr_pcentamnt='0.00';
+insert into sc_records set max_salary='11749.99', min_salary='11250.00', max_age='99', min_age='0', sc_id='6', scr_er='847.20', scr_ee='417.80', scr_ec='10.00', scr_pcent='0', scr_pcentamnt='0.00';
+insert into sc_records set max_salary='12249.99', min_salary='11750.00', max_age='99', min_age='0', sc_id='6', scr_er='884.00', scr_ee='436.00', scr_ec='10.00', scr_pcent='0', scr_pcentamnt='0.00';
+insert into sc_records set max_salary='12749.99', min_salary='12250.00', max_age='99', min_age='0', sc_id='6', scr_er='920.80', scr_ee='454.20', scr_ec='10.00', scr_pcent='0', scr_pcentamnt='0.00';
+insert into sc_records set max_salary='13249.99', min_salary='12750.00', max_age='99', min_age='0', sc_id='6', scr_er='957.70', scr_ee='472.30', scr_ec='10.00', scr_pcent='0', scr_pcentamnt='0.00';
+insert into sc_records set max_salary='13749.99', min_salary='13250.00', max_age='99', min_age='0', sc_id='6', scr_er='994.50', scr_ee='490.50', scr_ec='10.00', scr_pcent='0', scr_pcentamnt='0.00';
+insert into sc_records set max_salary='14249.99', min_salary='13750.00', max_age='99', min_age='0', sc_id='6', scr_er='1031.30', scr_ee='508.70', scr_ec='10.00', scr_pcent='0', scr_pcentamnt='0.00';
+insert into sc_records set max_salary='14749.99', min_salary='14250.00', max_age='99', min_age='0', sc_id='6', scr_er='1068.20', scr_ee='526.80', scr_ec='10.00', scr_pcent='0', scr_pcentamnt='0.00';
+insert into sc_records set max_salary='15249.99', min_salary='14750.00', max_age='99', min_age='0', sc_id='6', scr_er='1105.00', scr_ee='545.00', scr_ec='30.00', scr_pcent='0', scr_pcentamnt='0.00';
+insert into sc_records set max_salary='15749.99', min_salary='15250.00', max_age='99', min_age='0', sc_id='6', scr_er='1141.80', scr_ee='563.20', scr_ec='30.00', scr_pcent='0', scr_pcentamnt='0.00';
+insert into sc_records set max_salary='999999.99', min_salary='15750.00', max_age='99', min_age='0', sc_id='6', scr_er='1178.70', scr_ee='581.30', scr_ec='30.00', scr_pcent='0', scr_pcentamnt='0.00';
+
+
